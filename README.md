@@ -4,7 +4,7 @@
 <body>
     <h1>Detecting Credit Card Fraud Using Naive Bayes</h1> 
     <h2>Overview</h2>
-    <p>This project aims to detect fraudulent credit card transactions using machine learning techniques, specifically comparing Naïve Bayes and Support Vector Machine (SVM) models.</p>
+    <p>This project aims to detect fraudulent credit card transactions using machine learning techniques, specifically comparing <b><i>Naïve Bayes and Support Vector Machine (SVM)</i></b> models.</p>
     <h2>Dataset</h2>
     <p><strong>Source:</strong> <a href="https://www.kaggle.com/mlg-ulb/creditcardfraud" target="_blank">Credit Card Fraud Dataset</a></p>
     <p>The dataset contains anonymized transaction details with labeled fraud and non-fraud cases.</p>
@@ -12,7 +12,7 @@
    <h2>Objectives</h2>
     <ul>
         <li>Detect fraudulent transactions effectively.</li>
-        <li>Compare Naïve Bayes with SVM for fraud detection.</li>
+        <li>Compare <b><i>Naïve Bayes with SVM</i></b> for fraud detection.</li>
         <li>Evaluate model performance using precision-recall metrics.</li>
     </ul>
     
