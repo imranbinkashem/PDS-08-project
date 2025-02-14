@@ -9,7 +9,7 @@ from sklearn.svm import SVC
 from sklearn.metrics import classification_report, confusion_matrix, precision_recall_curve, roc_auc_score
 
 # Load dataset
-df = pd.read_csv('PYTHON/iict-PDS-08/data_science/creditcard.csv')
+df = pd.read_csv('creditcard.csv')
 
 # Check for missing values
 print("Missing values:")
